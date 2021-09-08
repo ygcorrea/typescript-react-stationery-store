@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "codigo": "00000002",
+      "nome": "Caneta",
+      "descricao": "é um instrumento utilizado para aplicar tinta sobre uma superfície, normalmente de papel, com o objetivo de formar desenhos ou palavras escritas.",
+      "quantidade": 30,
+      "categoria": "Escritório"
+    },
+    {
+      "id": 3,
+      "codigo": "00000003",
+      "nome": "Borracha",
+      "descricao": "é um objeto de uso escolar ou em escritório e seu principal uso é corrigir erros feitos com o lápis ou lapiseira",
+      "quantidade": 6,
+      "categoria": "Escolar"
+    },
+    {
+      "id": 4,
+      "codigo": "00000004",
+      "nome": "Resma de Papel A4",
+      "descricao": "Tamanho A4 é a configuração da medida de uma folha de papel que normalmente é utilizada em documentos oficiais e acadêmicos",
+      "quantidade": 50,
+      "categoria": "Escritório"
+    },
+    {
+      "id": 5,
+      "codigo": "00000005",
+      "nome": "Tesoura sem ponta",
+      "descricao": "Objeto utilizado para recortar",
+      "quantidade": 10,
+      "categoria": "Escolar"
+    },
+    {
+      "id": 6,
+      "codigo": "00000006",
+      "nome": "Post-it",
+      "descricao": "Bloco de notas composto por pequenas folhas de papel adesivo",
+      "quantidade": 20,
+      "categoria": "Escritório"
+    },
+    {
+      "id": 7,
+      "codigo": "00000007",
+      "nome": "Grampeador",
+      "descricao": "Um grampeador funciona basicamente usando força para empurrar um grampo através do papel e, em seguida, prendendo as páginas juntas",
+      "quantidade": 10,
+      "categoria": "Escritório"
+    },
+    {
+      "id": 8,
+      "codigo": "00000008",
+      "nome": "Marca texto",
+      "descricao": "Utilizado para sublinhar e destacar texto",
+      "quantidade": 30,
+      "categoria": "Escolar"
+    },
+    {
+      "id": 9,
+      "codigo": "00000009",
+      "nome": "Corretivo",
+      "descricao": "Material escolar usado por muitos alunos para esconder erros passados ou escritos a tinta de caneta",
+      "quantidade": 10,
+      "categoria": "Escolar"
+    }
+  ]
+}
